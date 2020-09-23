@@ -1,2 +1,4 @@
 # JavaScript-learning
-JavaScrpit 1.function；2.Asynchronous programming；3.Design patterns
+1.function 函数
+2.Asynchronous programming 异步编程
+3.Design patterns 设计模式
